@@ -2,7 +2,11 @@ import HTTPTypes
 import JavaScriptKit
 import OpenAPIRuntime
 
-import struct Foundation.URL
+#if canImport(FoundationEssentials)
+    import struct FoundationEssentials.URL
+#else
+    import struct Foundation.URL
+#endif
 
 // UNTESTED TOY IMPLEMENTATION, DO NOT USE
 struct JSFetchClientTransport: ClientTransport {

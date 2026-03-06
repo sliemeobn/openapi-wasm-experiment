@@ -49,7 +49,7 @@ struct ContentView {
 
             facts.append(fact)
         } catch {
-            self.error = error.localizedDescription
+            self.error = "\(error)"
         }
     }
 }

@@ -1,13 +1,13 @@
 {
-  "originHash" : "c847777365d44ce47f61579ca4b1082fd2519e73a8c6267b8a421093b4f5ea77",
+  "originHash" : "81da9fb873249544f4b276a7023c0b31d027d2cacf55e37006db1a989bc6bc26",
   "pins" : [
     {
       "identity" : "elementary",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/elementary-swift/elementary",
       "state" : {
-        "revision" : "65803c4770b6c8b6452c6ce83ab570c1b7042528",
-        "version" : "0.6.1"
+        "revision" : "ca09461308fbd568a95523544d97119ba7aea2a1",
+        "version" : "0.6.4"
       }
     },
     {
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/elementary-swift/elementary-ui.git",
       "state" : {
-        "revision" : "9881d31f29d80d9a6dc9401ce9f63fdae58c57e5",
-        "version" : "0.1.0"
+        "revision" : "923d15c952117098fdd241e656a67290eb96f808",
+        "version" : "0.1.6"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftwasm/JavaScriptKit",
       "state" : {
-        "revision" : "4b327dc40d3931c2236ed43c6b47325c17c88afe",
-        "version" : "0.37.0"
+        "revision" : "5529520b25638aa86765ab33b175289f1ab263a3",
+        "version" : "0.46.5"
       }
     },
     {
@@ -96,8 +96,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-openapi-runtime",
       "state" : {
-        "revision" : "7cdf33371bf89b23b9cf4fd3ce8d3c825c28fbe8",
-        "version" : "1.9.0"
+        "revision" : "f039fa6d6338aab5164f3d1be16281524c9a8f89",
+        "version" : "1.11.0"
       }
     },
     {
@@ -105,8 +105,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-syntax",
       "state" : {
-        "revision" : "f99ae8aa18f0cf0d53481901f88a0991dc3bd4a2",
-        "version" : "601.0.1"
+        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
+        "version" : "602.0.0"
       }
     },
     {
@@ -114,8 +114,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jpsim/Yams",
       "state" : {
-        "revision" : "51b5127c7fb6ffac106ad6d199aaa33c5024895f",
-        "version" : "6.2.0"
+        "revision" : "deaf82e867fa2cbd3cd865978b079bfcf384ac28",
+        "version" : "6.2.1"
       }
     }
   ],
